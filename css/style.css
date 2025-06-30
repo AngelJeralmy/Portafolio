@@ -1,0 +1,18 @@
+/* Estilos adicionales */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  margin-bottom: 1rem;
+  color: #198754;
+}
+
+.card {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+  resize: none;
+}
